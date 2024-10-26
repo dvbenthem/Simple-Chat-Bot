@@ -28,10 +28,10 @@ fun remindName() {
 fun guessAge() {
     println("Let me guess your age.")
     println("Enter remainders of dividing your age by 3, 5 and 7.")
-    val rem3 = scanner.nextInt()
-    val rem5 = scanner.nextInt()
-    val rem7 = scanner.nextInt()
-    val age = (rem3 * 70 + rem5 * 21 + rem7 * 15) % 105
+    val rem3: Int = scanner.nextInt()
+    val rem5: Int = scanner.nextInt()
+    val rem7: Int = scanner.nextInt()
+    val ageL Int = (rem3 * 70 + rem5 * 21 + rem7 * 15) % 105
     println("Your age is ${age}; that's a good time to start programming!")
 }
 
