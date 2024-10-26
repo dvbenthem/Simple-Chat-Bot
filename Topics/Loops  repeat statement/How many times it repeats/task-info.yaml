@@ -1,0 +1,20 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: from 1 to 4
+  - text: exactly 4
+  - text: from 0 to 5
+  - text: exactly 5
+files:
+  - name: src/Main.kt
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/4644#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Sat, 14 Sep 2024 21:50:21 UTC"
+record: -1
+selected_options:
+  - 3
+local_check: false

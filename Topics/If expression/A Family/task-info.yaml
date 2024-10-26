@@ -1,0 +1,21 @@
+type: number
+files:
+  - name: answer.txt
+    visible: true
+    placeholders:
+      - offset: 0
+        length: 23
+        placeholder_text: type your solution here
+        initial_state:
+          length: 23
+          offset: 0
+        initialized_from_dependency: false
+        selected: false
+        status: Failed
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/5960#comment
+status: Failed
+feedback:
+  message: Input text is not number
+  time: "Fri, 13 Sep 2024 21:50:44 UTC"
+record: -1

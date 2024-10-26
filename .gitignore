@@ -1,0 +1,23 @@
+# Project exclude paths
+/.gradle/
+/Simple Chat Bot (Kotlin)/task/build/
+/Topics/Declaring functions/Division/out/
+/Topics/Declaring functions/Division/out/production/classes/
+/Topics/For loop and ranges/Check the order/out/
+/Topics/For loop and ranges/Check the order/out/production/classes/
+/Topics/For loop and ranges/Theory/out/
+/Topics/For loop and ranges/Theory/out/production/classes/
+/Topics/List/Theory/out/
+/Topics/List/Theory/out/production/classes/
+/Topics/Loops  repeat statement/Counting positive numbers/out/
+/Topics/Loops  repeat statement/Counting positive numbers/out/production/classes/
+/Topics/Loops  repeat statement/Kotlin x5/out/
+/Topics/Loops  repeat statement/Kotlin x5/out/production/classes/
+/Topics/Loops  repeat statement/Print a string exactly ten times/out/
+/Topics/Loops  repeat statement/Print a string exactly ten times/out/production/classes/
+/Topics/Loops  repeat statement/Printing an ascending asterisk triangle/out/
+/Topics/Loops  repeat statement/Printing an ascending asterisk triangle/out/production/classes/
+/Topics/Loops  repeat statement/Sum of squares of even numbers up to a limit/out/
+/Topics/Loops  repeat statement/Sum of squares of even numbers up to a limit/out/production/classes/
+/Topics/Loops  repeat statement/Theory/out/
+/Topics/Loops  repeat statement/Theory/out/production/classes/
